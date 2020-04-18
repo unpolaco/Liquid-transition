@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.landing{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 100vh;
+  background: linear-gradient(90deg, black 0%, #263238 100%);
+}
+
+.distortion, .distortion2{
+  width: 600px;
+  height: 400px;
+}
+
+
